@@ -7,8 +7,9 @@ A complete introductory course to PySpark with Databricks
 Un taller introductorio muy completo para aprender PySpark con Databricks.
 
 Requisitos:
-- Una cuenta gratuita en Databricks Community Edition - [Link](https://community.cloud.databricks.com/login.html)
+- Una cuenta gratuita en Databricks Community Edition - [Link]([https://community.cloud.databricks.com/login.html](https://docs.databricks.com/en/getting-started/community-edition.html))
 - Una cuenta gratuita de Kaggle - [Link](https://www.kaggle.com/)
+  - Obtener un API Token - [Link](https://github.com/Kaggle/kaggle-api#api-credentials)
 
 El taller está compuesto por 5 Notebooks de Databricks:
 
