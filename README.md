@@ -15,8 +15,8 @@ El taller está compuesto por 5 Notebooks de Databricks:
 
 1. [**Introducción a Apache Spark y PySpark en Databricks:**](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2678054157566839/1680053621817658/1665983482644320/latest.html) En este Notebook se exploran los principios básicos de Spark, PySpark y Databricks, la arquitectura distribuida de Apache Spark, las estructuras de datos disponibles en Apache Spark y las ventajas y deventajas de PySpark frente a Pandas.
 2. **Operaciones con PySpark:** En este Notebook se exploran a detalle las principales operaciones que se pueden llevar a cabo sobre los DataFrames de PySpark: Transformaciones, acciones y agregaciones. Se introduce también el uso de las funciones ventana o **Window functions** para realizar agregaciones más avanzadas.
-3. **Análisis exploratorio con PySpark y Databricks:** En este Notebook se
+3. **Análisis exploratorio con PySpark y Databricks:** En este Notebook se [Respuestas](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2678054157566839/1929261578956614/1665983482644320/latest.html)
 4. **Monitorización y optimización en PySpark:**
-5. **Siguientes pasos con PySpark y Databricks:** En este Notebook se describen algunas ideas para continuar seguir aprendiendo más sobre Apache Spark y Databricks.
+5. [**Siguientes pasos con PySpark y Databricks:**](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2678054157566839/3412611629564375/1665983482644320/latest.html) En este Notebook se describen algunas ideas para continuar seguir aprendiendo más sobre Apache Spark y Databricks.
 
 El taller está desarrollado completamente en español.
